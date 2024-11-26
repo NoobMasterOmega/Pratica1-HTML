@@ -1,0 +1,25 @@
+body{
+    background-color: #e8e8e8;
+    color: #2d49a6;
+}
+h1{
+    color: #252525;
+}
+h2{
+    color: #252525;
+}
+table, th, td{
+    border: 1px solid #444;
+    border-collapse: collapse;
+    padding: 5px 2px;
+}
+table{
+    width: 50%;
+    background-color: yellow;
+}
+footer{
+    color: #252525;
+}
+tr:hover{
+    background-color: #f7f5f5;
+}
